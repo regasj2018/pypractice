@@ -1,3 +1,7 @@
+
+
+
+
 secret = 7
 number = 0
 
