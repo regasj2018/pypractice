@@ -1,6 +1,6 @@
 
-x = 5
-y = 10
+#x = 5
+#y = 10
 #swaps
 def swap(first,second):
 	z = first
@@ -8,6 +8,6 @@ def swap(first,second):
 	second = z
 	return first,second
 #endswap
-x,y = swap(x,y)
-print(x,y)
+#x,y = swap(x,y)
+#print(x,y)
 # y = 5, x = 10
